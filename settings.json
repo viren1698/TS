@@ -1,8 +1,11 @@
 {
     "url_start":"https://sdw-wsrest.ecb.europa.eu/service/data/EXR/M.",
     "url_end": ".SP00.A?detail=dataonly",
+    "raw_data_url_start": "https://sdw-wsrest.ecb.europa.eu/service/data/BP6/",
+    "raw_data_url_end": "?detail=dataonly",
     "url_sep": ".",
     "xml_obs_start": "<generic:Obs>",
     "xml_obs_end": "</generic:Obs>"
+
 
 }
